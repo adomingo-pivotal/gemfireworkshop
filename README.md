@@ -1,7 +1,7 @@
 gemfireworkshop
 ===============
 
-code for Gemfire Workshop
+Gemfire Workshop
 
 startloc.py --> start the locator on port 55221
 
